@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-gradientbg {
+  background-image: url("/public/background.jpg"); /* Update the path to your image */
+  background-size: cover;
+  background-position: center;
+}
